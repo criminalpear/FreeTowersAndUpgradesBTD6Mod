@@ -6,6 +6,6 @@
 FreeTowersAndUpgrades
 </h1>
 
-A Mod allowing towers and upgrades to be free in BTD6
+# A Mod allowing towers and upgrades to be free in BTD6
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
