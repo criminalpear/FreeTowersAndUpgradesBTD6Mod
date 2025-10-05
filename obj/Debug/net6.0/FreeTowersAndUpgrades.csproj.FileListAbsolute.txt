@@ -1,0 +1,10 @@
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\bin\Debug\net6.0\FreeTowersAndUpgrades.deps.json
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\bin\Debug\net6.0\FreeTowersAndUpgrades.dll
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\obj\Debug\net6.0\FreeTowersAndUpgrades.csproj.AssemblyReference.cache
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\obj\Debug\net6.0\FreeTowersAndUpgrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\obj\Debug\net6.0\FreeTowersAndUpgrades.AssemblyInfoInputs.cache
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\obj\Debug\net6.0\FreeTowersAndUpgrades.AssemblyInfo.cs
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\obj\Debug\net6.0\FreeTowersAndUpgrades.csproj.CoreCompileInputs.cache
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\obj\Debug\net6.0\FreeTowersAndUpgrades.dll
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\obj\Debug\net6.0\refint\FreeTowersAndUpgrades.dll
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\obj\Debug\net6.0\ref\FreeTowersAndUpgrades.dll

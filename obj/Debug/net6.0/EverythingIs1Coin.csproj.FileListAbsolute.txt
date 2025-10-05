@@ -1,0 +1,10 @@
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\bin\Debug\net6.0\EverythingIs1Coin.deps.json
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\bin\Debug\net6.0\EverythingIs1Coin.dll
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\obj\Debug\net6.0\EverythingIs1Coin.csproj.AssemblyReference.cache
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\obj\Debug\net6.0\EverythingIs1Coin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\obj\Debug\net6.0\EverythingIs1Coin.AssemblyInfoInputs.cache
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\obj\Debug\net6.0\EverythingIs1Coin.AssemblyInfo.cs
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\obj\Debug\net6.0\EverythingIs1Coin.csproj.CoreCompileInputs.cache
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\obj\Debug\net6.0\EverythingIs1Coin.dll
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\obj\Debug\net6.0\refint\EverythingIs1Coin.dll
+C:\Users\evret\OneDrive\Documents\BTD6 Mod Sources\EverythingIs1Coin\obj\Debug\net6.0\ref\EverythingIs1Coin.dll

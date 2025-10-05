@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bNK35S5gp7g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evret\\OneDrive\\Documents\\BTD6 Mod Sources\\EverythingIs1Coin\\FreeTowersAndUpgrades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evret\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\evret\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\evret\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
